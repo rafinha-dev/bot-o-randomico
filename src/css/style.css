@@ -1,0 +1,15 @@
+body{
+   background-color: #F07C81 ;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 100vw;
+}
+.button{
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    width: 100px;
+    height: 30px;
+}

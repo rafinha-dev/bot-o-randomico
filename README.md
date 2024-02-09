@@ -11,6 +11,8 @@ Mande uma propósta irrecusável para seu crush
 
 </div>
 
+![](src/irrecusavel.gif)
+
 ## Overview
 
 Essa página é apenas uma brincadeira com um botão inclicável usando o método random.math. 
